@@ -808,7 +808,7 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Ask For Approvals">bae0a1120b10030085c083eb37673a92</action_type>
+        <action_type display_value="Ask For Approval">bae0a1120b10030085c083eb37673a92</action_type>
         <action_type_parent/>
         <comment>Get approval from Requested for's Manager</comment>
         <compiled_snapshot/>
@@ -1840,7 +1840,7 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Ask For Approvals">bae0a1120b10030085c083eb37673a92</action_type>
+        <action_type display_value="Ask For Approval">bae0a1120b10030085c083eb37673a92</action_type>
         <action_type_parent/>
         <comment>Get approval from Requested for's Manager</comment>
         <compiled_snapshot/>
